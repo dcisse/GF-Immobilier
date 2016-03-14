@@ -1,0 +1,12 @@
+Location
+	Type de bien
+	Localisation
+	Loyer mensuel
+	Nombre de chambres
+	Nombre de douches
+Vente
+	Type de bien
+	Localisation
+	Prix
+	Nombre de chambres
+	Surface
