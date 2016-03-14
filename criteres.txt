@@ -5,8 +5,8 @@
 	Nombre de chambres			Nombre de chambres
 	Nombre de douches			Surface
 			
-	Plus de critères
-	Etat du bâtiment
+						Plus de critères
+						  Etat du bâtiment
 	
 	
 	
