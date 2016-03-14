@@ -4,7 +4,7 @@
 	Loyer mensuel				Prix
 	Nombre de chambres			Nombre de chambres
 	Nombre de douches			Surface
-			
+	Meublé (oui/non)		
 						Plus de critères
 						  Etat du bâtiment
 	
