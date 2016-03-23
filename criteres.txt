@@ -2,14 +2,21 @@
 	Type de bien				Type de bien
 	Localisation				Localisation
 	Loyer mensuel				Prix
-	Nombre de chambres			Nombre de chambres
-	Nombre de douches			Surface
-	Meublé (oui,non,peu importe)		
-						Plus de critères
-						  Etat du bâtiment
+        Nombre de chambres                      Nombre de pièces pour les appartements
+	Nombre de douches			Nombre de chambres
+	Meublé (oui,non,peu importe)	        Surface du terrain
+	Situation du logement dans l'immeuble	Etat du bâtiment	
+						Commodités
+						Pièces
+                                                Rangements
+                                                Orientation
+                                                  
+	                                   
 	
-	
-	
-	
-	
-	
+Type de bien :Appartement, Maison-villa, Bureau, Local commercial, Bâtiment, Hôtel particulier, Parking, Immeuble, Terrain, Boutique, Bureau,Divers
+Situation du logement dans l'immeuble : niveau d'etage.
+A propos de l'immeuble : ascenseur, un interphone, gardien.
+Commodités : piscine, alarme, climatisation, cheminee, parquet, terrasses, balcons.
+Pièces : salle à manger séparée. sejour, toilettes séparés, salles de bain, entrée séparée
+Rangements : cave, placards, parcking ouvert, box (parking fermé ou garage).
+Orientation : sud, est, nord, ouest, belle-vue, sans vis à vis.
