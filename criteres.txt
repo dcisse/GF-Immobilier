@@ -6,10 +6,11 @@
 	Nombre de douches			Nombre de chambres
 	Meublé (oui,non,peu importe)	        Surface du terrain
 	Situation du logement dans l'immeuble	Etat du bâtiment	
-						Commodités
+	A propos de l'immeuble			Commodités
 						Pièces
                                                 Rangements
                                                 Orientation
+                                                A propos de l'immeuble
                                                   
 	                                   
 	
